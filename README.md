@@ -1,2 +1,4 @@
 # orberge
-A physical place for pilgrims of life
+A physical place for pilgrims of life.
+
+Coming soon.
