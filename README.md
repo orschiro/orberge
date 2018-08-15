@@ -1,4 +1,4 @@
-# orberge
-A physical place for pilgrims of life.
+# Orberge
+An albergue for everyone on the path of life, seeking for a night to pause.
 
-Coming soon.
+Opening soon...
